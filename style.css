@@ -26,6 +26,10 @@ a {
     font-size: 1rem;
 }
 
+a:hover {
+    color: orange;
+}
+
 /* navbar logo img */
 .logoimg {
     width: 50px;
