@@ -10,9 +10,9 @@ body {
     background-color: #fff;
     /* 
         placement for background image if want
+        background-size: cover;
+        background-position: center;
     */
-    background-size: cover;
-    background-position: center;
 
 }
 
