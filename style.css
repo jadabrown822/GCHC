@@ -12,6 +12,11 @@
   display: none;
 }
 
+.slide-image {
+    width: 100%;
+    height: auto;
+}
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
