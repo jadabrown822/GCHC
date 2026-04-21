@@ -54,6 +54,13 @@ header {
   gap: 2rem;
 }
 
+.navbar .toggle_btn {
+  color: black;
+  font-size: 1.5rem;
+  cursor: pointer;
+  display: none;
+}
+
 
 /* Slideshow container */
 .slideshow-container {
