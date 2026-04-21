@@ -26,10 +26,10 @@ a {
     font-size: 1rem;
 }
 
-a:hover {
+.links a:hover {
     color: #fff;
     background-color: #000;
-    
+
 }
 
 /* navbar logo img */
