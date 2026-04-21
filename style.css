@@ -25,6 +25,10 @@ a {
   font-size: 1rem;
 }
 
+a:hover {
+  color: blue;
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
