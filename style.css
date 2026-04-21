@@ -44,6 +44,17 @@ header {
   justify-content: space-between;
 }
 
+.navbar .logo a {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar .links {
+  display: flex;
+  gap: 2rem;
+}
+
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
