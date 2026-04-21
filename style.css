@@ -45,6 +45,10 @@ header {
   font-weight: bold;
 }
 
+.navbar .logo image {
+  width: 25px;
+}
+
 .navbar .links {
   display: flex;
   gap: 2rem;
