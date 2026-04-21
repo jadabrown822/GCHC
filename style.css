@@ -23,7 +23,6 @@ a {
   text-decoration: none;
   color: black;
   font-size: 1rem;
-  transition: scale 0.2s ease;
 }
 
 a:hover {
@@ -34,7 +33,6 @@ a:hover {
   outline: none;
   border-radius: 20px;
   cursor: pointer;
-  scale: 1.05;
 }
 
 /* HEADER */
@@ -57,7 +55,7 @@ header {
   font-weight: bold;
 }
 
-.navbar .logo img {
+.navbar img {
   width: 50px;
 }
 
