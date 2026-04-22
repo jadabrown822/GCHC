@@ -27,6 +27,11 @@ body {
   background-color: rgb(39, 44, 51);
 }
 
+.top-bar_content {
+  color: rgba(255, 255, 255, 0.35);
+  font-size: 12px;
+}
+
 .bottom-bar {
   background-color: rgb(19 , 22, 26);
 }
