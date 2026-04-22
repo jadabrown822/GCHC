@@ -30,6 +30,13 @@ body {
 .top-bar_content {
   color: rgba(255, 255, 255, 0.35);
   font-size: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 3px;
+  color: rgba(255, 255, 255, 0.17);
 }
 
 .bottom-bar {
