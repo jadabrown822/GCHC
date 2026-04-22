@@ -22,6 +22,15 @@ body {
   height: 100vh;
 }
 
+/* NORMAL STYLES */
+.top-bar {
+  background-color: rgb(39, 44, 51);
+}
+
+.hamburger {
+  display: none;
+}
+
 
 /* Slideshow container */
 .slideshow-container {
