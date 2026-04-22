@@ -27,6 +27,11 @@ body {
   background-color: rgb(39, 44, 51);
 }
 
+.bottom-bar {
+  background-color: rgb(19 , 22, 26);
+}
+
+
 .hamburger {
   display: none;
 }
