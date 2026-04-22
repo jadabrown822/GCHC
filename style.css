@@ -48,6 +48,14 @@ body {
   letter-spacing: -0.5px;
 }
 
+.nav_link {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.nav_link:hover {
+  color: rgba(255, 255, 255, 1);
+}
+
 .hamburger {
   display: none;
 }
