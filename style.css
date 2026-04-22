@@ -50,6 +50,7 @@ body {
 
 .nav_link {
   color: rgba(255, 255, 255, 0.75);
+  transition: all 0.2s ease;
 }
 
 .nav_link:hover {
