@@ -83,6 +83,10 @@ body {
   letter-spacing: -0.5px;
 }
 
+.nav {
+  transition: all 0.3s ease-in-out;
+}
+
 .nav_list {
   display: flex;
   column-gap: 40px;
