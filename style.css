@@ -132,6 +132,8 @@ body {
   .hamburger {
     display: block;
     color: #fff;
+    margin: 5px 0;
+    opacity: 0.8;
   }
 }
 
