@@ -112,6 +112,10 @@ body {
   display: none;
 }
 
+.mySlides img {
+  border-radius: 20px;
+}
+
 .slide-image {
     width: 100%;
     height: auto;
