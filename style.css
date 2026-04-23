@@ -23,6 +23,11 @@ body {
 }
 
 /* NORMAL STYLES */
+.header {
+  position: fixed;
+  width: 100%;
+}
+
 .top-bar {
   background-color: rgb(39, 44, 51);
 }
