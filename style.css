@@ -19,12 +19,14 @@ ul {
 /* BASE STYLE */
 body {
   background-color: #fdf7ff;
-  height: 100vh;
+  height: 5000px;
+  padding-top: 90px;
 }
 
 /* NORMAL STYLES */
 .header {
   position: fixed;
+  top: 0;
   width: 100%;
 }
 
