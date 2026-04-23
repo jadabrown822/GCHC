@@ -108,6 +108,11 @@ body {
   display: none;
 }
 
+/* FOR JS */
+.nav--open {
+  transform: translateX(0%) !important;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 650px) {
   .nav {
