@@ -30,6 +30,7 @@ body {
 .top-bar_content {
   max-width: 1200px;
   margin: 0 auto;
+  padding: 0 30px;
   height: 30px;
   color: rgba(255, 255, 255, 0.35);
   font-size: 12px;
@@ -51,6 +52,7 @@ body {
 .bottom-bar_content {
   max-width: 1200px;
   margin: 0 auto;
+  padding: 0 30px;
   height: 60px;
   display: flex;
   align-items: center;
