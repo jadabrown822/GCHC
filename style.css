@@ -108,6 +108,28 @@ body {
   display: none;
 }
 
+/* MEDIA QUERIES */
+@media (max-width: 650px) {
+  .nav {
+    position: fixed;
+    top: 90px;
+    left: 0;
+    background-color: rgb(19 , 22, 26);
+    width: 100%;
+    padding: 10px 0 25px;
+  }
+
+  .nav_list {
+    flex-direction: column;
+    align-items: center;
+    row-gap: 20px;
+  }
+
+  .nav_link {
+    font-size: 14px;
+  }
+}
+
 
 /* Slideshow container */
 .slideshow-container {
