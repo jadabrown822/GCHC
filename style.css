@@ -117,6 +117,7 @@ body {
     background-color: rgb(19 , 22, 26);
     width: 100%;
     padding: 10px 0 25px;
+    transform: translateX(-100%);
   }
 
   .nav_list {
