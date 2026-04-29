@@ -110,11 +110,27 @@ body {
 
 .hamburger {
   display: none;
+  color: #fff;
+  margin: 5px 0;
+  opacity: 0.8;
+  transition: all 0.3s ease;
 }
 
 /* FOR JS */
 .nav--open {
   transform: translateX(0%) !important;
+}
+
+.hamburger--open .bar:nth-child(1){
+  transform: translateY(7px) rotate(45deg);
+}
+
+.hamburger--open .bar:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger--open .bar:nth-child(3) {
+  transform: translateY(-7px) rotate(-45deg);
 }
 
 /* MEDIA QUERIES */
