@@ -121,17 +121,6 @@ body {
   transform: translateX(0%) !important;
 }
 
-.hamburger--open .bar:nth-child(1){
-  transform: translateY(7px) rotate(45deg);
-}
-
-.hamburger--open .bar:nth-child(2) {
-  opacity: 0;
-}
-
-.hamburger--open .bar:nth-child(3) {
-  transform: translateY(-7px) rotate(-45deg);
-}
 
 /* MEDIA QUERIES */
 @media (max-width: 650px) {
