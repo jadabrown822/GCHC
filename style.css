@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'poppins', sans-serif;
+    scroll-behavior: smooth;
 }
 
 
@@ -20,8 +21,14 @@ ul {
 body {
   background-color: #fdf7ff;
   height: 5000px;
-  padding-top: 90px;
+  padding-top: 120px;
 }
+
+/* Offset sections so their titles do not hide */
+section, .home-section-wrapper {
+  scroll-margin-top: 110px;
+}
+
 
 /* NORMAL STYLES */
 .header {
@@ -102,7 +109,7 @@ body {
   color: rgba(255, 255, 255, 1);
 }
 
-.nav_link:focus {
+.nav_link.active {
   color: #fff;
   background-color: #0071e3;
   padding: 8px 20px;
